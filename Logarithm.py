@@ -1,6 +1,6 @@
 # How to calculate Logarithm of any numbers in any bases :
 # Rather than other slow algorithms to calculate Log(num, base)
-# This code is really fast. This code does nit use Taylor Series but some simple 
+# This code is really fast. This code does not use Taylor Series but some simple 
 # functions.
 
 def domain_check(num, base):

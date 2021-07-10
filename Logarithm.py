@@ -109,7 +109,7 @@ def log_ten(num, accuracy = 12):
     # result
     num, sign = be_greater_than_one(num)
 
-    for _ in range(accuracy+1):
+    for _ in range(accuracy):
 
          number_of_digits_minus_one = digit_counter(num) - 1
 
